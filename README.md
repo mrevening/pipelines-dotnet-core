@@ -6,6 +6,8 @@ For more information on building .NET Core applications, see [.NET Core](https:/
 # Status badge
 [![Build Status](https://dev.azure.com/dominicwieczo/first-pipeline/_apis/build/status/mrevening.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/dominicwieczo/first-pipeline/_build/latest?definitionId=1&branchName=master)
 
+[![Api Gateways base image](https://msftdevtools.visualstudio.com/eShopOnContainers/_apis/build/status/microservices/apigws?branchName=dev)](https://msftdevtools.visualstudio.com/eShopOnContainers/_build/latest?definitionId=201&branchName=dev)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
