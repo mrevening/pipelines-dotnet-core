@@ -4,6 +4,8 @@ For information on how to set up a pipeline for this repository, see [Create you
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
 
 # Status badge
+https://dev.azure.com/dominicwieczo/first-pipeline/_apis/build/status/mrevening.pipelines-dotnet-core?branchName=master
+
 [![Build Status](https://dev.azure.com/dominicwieczo/first-pipeline/_apis/build/status/mrevening.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/dominicwieczo/first-pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
